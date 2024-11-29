@@ -1,0 +1,62 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+
+    <IsPackable>false</IsPackable>
+    <IsTestProject>true</IsTestProject>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Scheduler\**" />
+    <EmbeddedResource Remove="Scheduler\**" />
+    <None Remove="Scheduler\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="Data\broadcastFile_end-of-line-order.json" />
+    <None Remove="Data\broadcastFile_end-of-line.json" />
+    <None Remove="Data\broadcastFile_pre-flash-order.json" />
+    <None Remove="Data\broadcastFile_pre-flash.json" />
+    <None Remove="Data\broadcastFile_vehicleobject-order.json" />
+    <None Remove="Data\broadcastFile_vehicleobject.json" />
+    <None Remove="Data\pie_endoflineresponse.json" />
+    <None Remove="Data\pie_preflashresponse.json" />
+    <None Remove="Data\pie_vehicleobjectresponse.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Data\broadcastFile_end-of-line-order.json" />
+    <EmbeddedResource Include="Data\broadcastFile_pre-flash-order.json" />
+    <EmbeddedResource Include="Data\broadcastFile_vehicleobject-order.json" />
+    <EmbeddedResource Include="Data\pie_preflashresponse.json" />
+    <EmbeddedResource Include="Data\pie_vehicleobjectresponse.json" />
+    <EmbeddedResource Include="Data\pie_endoflineresponse.json" />
+    <EmbeddedResource Include="Data\broadcastFile_end-of-line.json" />
+    <EmbeddedResource Include="Data\broadcastFile_pre-flash.json" />
+    <EmbeddedResource Include="Data\broadcastFile_vehicleobject.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FluentAssertions" Version="6.12.0" />
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.9.0" />
+    <PackageReference Include="Moq" Version="4.20.70" />
+    <PackageReference Include="RichardSzalay.MockHttp" Version="7.0.0" />
+    <PackageReference Include="xunit" Version="2.7.0" />
+    <PackageReference Include="xunit.runner.visualstudio" Version="2.5.7">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\src\PieHandlerService.Infrastructure\PieHandlerService.Infrastructure.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Using Include="Xunit" />
+  </ItemGroup>
+  
+</Project>

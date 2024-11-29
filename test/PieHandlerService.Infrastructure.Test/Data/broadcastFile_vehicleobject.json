@@ -1,0 +1,258 @@
+{"vehicleObjectContext": {
+  "vehicleObjectHash": "c97c2e60c00410dbf989de9ee79f0ff3e4f6032439d7e840af5562c6a4aa612f",
+  "createdUtcMs": 1713349068603,
+  "modifiedUtcMs": 1713349068603,
+  "vehicle": {
+    "chassisNumber": "000000",
+    "factoryCode": "58",
+    "fyon": "678726852",
+    "structureWeek": 202503,
+    "modelYear": "2024",
+    "vehicleType": "334",
+    "vin": "YVSYS000000000000",
+    "typeCode": "4020",
+    "productType": "40"
+  },
+  "vdnList": {
+    "vdns": "020303020402050106030702080209020A030B020C020D020E020F010G020H020I020J020K020L020M020N010O010P020Q020R030S030T030U030V020W020X020Y020Z021007110H120213021401150216011703180319011A021B021C041D011E021F021G041H041I021J011K021L021M021N021O021P021Q021R021S021T021U031V021W021X031Y021Z0320012302240226022702280229022A012B022C012D022E022F022G032H022I022J022K022L022M012N012O022Q022R012S022T022U012V012Z02310234023C043D013M013O033P033X013Z0241014410470360046204650168036A026J016X018F018G048H018X019U01AA03BOXCC101C712CB01CFFDCI06CJ04CK36CP01CS01CT07CV03CX02D202DB03DD01E001E502EB01EC01ED02EF02EH01EJ01EK02EL03EN02EO02EP02EQ02ES01EV04EZ02FA01FB01FB02FE01FG01FH01FK2CFL01G603GN0FH103HA03HE02JA03JB07JE02JG02JH02JI01JJ01K201K401K503K902KE03KG05KH05KJ01KN02KZ05L104L203L302L406L501L601L702L902LD01LE01LJ02LR02LT01LW02MC05MM13MO09MS22MT05MV0EMW03N201N705N801N901NC07NE02NG04NH02NI02NJ02NK01NL01NM02NN02NO03NP01NQ03NR02NS02NV02NY01P002P303P401PD03PF02PI01PK02PN04PO01PU02R00DR116R206R306R40NR50BR602R701R80BR97CRA02RB04RC01RD01RE06RF01RG03RI03RK05RR04RT02RU02SW02T002T201T602TB05TC03TD02TJ06TK04TM02TR05TS02TV01UB01VJ01VP05XA03XA05XA06XA09XA0BXA0DXA0EXA14XA16XA18XA1AXA1CXA1EXA1FXA21XA22XA30XB61XC01XD01XE01XE04XE06Y704Y819Y914YA05YB0BYC17YD12YE20YF12YG00YH01YI01YJ01YK01YP01YR01YV06"
+  },
+  "currentEcus": [
+    {
+      "ecuName": "ADPU",
+      "securityAccessGen": 2
+    },
+    {
+      "ecuName": "AUD",
+      "securityAccessGen": 2
+    },
+    {
+      "ecuName": "BCMA",
+      "securityAccessGen": 2
+    },
+    {
+      "ecuName": "BPD",
+      "securityAccessGen": 2
+    },
+    {
+      "ecuName": "BTLL",
+      "securityAccessGen": 2
+    },
+    {
+      "ecuName": "BTLR",
+      "securityAccessGen": 2
+    },
+    {
+      "ecuName": "CCMB",
+      "securityAccessGen": 2
+    },
+    {
+      "ecuName": "CSD",
+      "securityAccessGen": 2
+    },
+    {
+      "ecuName": "DDM",
+      "securityAccessGen": 2
+    },
+    {
+      "ecuName": "DGWA",
+      "securityAccessGen": 2
+    },
+    {
+      "ecuName": "DGWM",
+      "securityAccessGen": 2
+    },
+    {
+      "ecuName": "ETCM",
+      "securityAccessGen": 2
+    },
+    {
+      "ecuName": "FGWA",
+      "securityAccessGen": 2
+    },
+    {
+      "ecuName": "FGWM",
+      "securityAccessGen": 2
+    },
+    {
+      "ecuName": "FIOC",
+      "securityAccessGen": 2
+    },
+    {
+      "ecuName": "FLR",
+      "securityAccessGen": 2
+    },
+    {
+      "ecuName": "FMDM",
+      "securityAccessGen": 2
+    },
+    {
+      "ecuName": "FSRL",
+      "securityAccessGen": 2
+    },
+    {
+      "ecuName": "FSRR",
+      "securityAccessGen": 2
+    },
+    {
+      "ecuName": "GCCC",
+      "securityAccessGen": 2
+    },
+    {
+      "ecuName": "GHCA",
+      "securityAccessGen": 2
+    },
+    {
+      "ecuName": "HCMR",
+      "securityAccessGen": 2
+    },
+    {
+      "ecuName": "HIA",
+      "securityAccessGen": 2
+    },
+    {
+      "ecuName": "HIB",
+      "securityAccessGen": 2
+    },
+    {
+      "ecuName": "HLCM",
+      "securityAccessGen": 2
+    },
+    {
+      "ecuName": "HOD",
+      "securityAccessGen": 2
+    },
+    {
+      "ecuName": "HPA",
+      "securityAccessGen": 2
+    },
+    {
+      "ecuName": "HUD",
+      "securityAccessGen": 2
+    },
+    {
+      "ecuName": "HVBM",
+      "securityAccessGen": 2
+    },
+    {
+      "ecuName": "LPA",
+      "securityAccessGen": 2
+    },
+    {
+      "ecuName": "LPC",
+      "securityAccessGen": 2
+    },
+    {
+      "ecuName": "NFCA",
+      "securityAccessGen": 2
+    },
+    {
+      "ecuName": "OHC",
+      "securityAccessGen": 2
+    },
+    {
+      "ecuName": "OHLC",
+      "securityAccessGen": 2
+    },
+    {
+      "ecuName": "OHRL",
+      "securityAccessGen": 2
+    },
+    {
+      "ecuName": "OHRR",
+      "securityAccessGen": 2
+    },
+    {
+      "ecuName": "PAK",
+      "securityAccessGen": 2
+    },
+    {
+      "ecuName": "PDM",
+      "securityAccessGen": 2
+    },
+    {
+      "ecuName": "PGWA",
+      "securityAccessGen": 2
+    },
+    {
+      "ecuName": "PGWM",
+      "securityAccessGen": 2
+    },
+    {
+      "ecuName": "POT",
+      "securityAccessGen": 2
+    },
+    {
+      "ecuName": "PPD",
+      "securityAccessGen": 2
+    },
+    {
+      "ecuName": "PSCM",
+      "securityAccessGen": 2
+    },
+    {
+      "ecuName": "PSMD",
+      "securityAccessGen": 2
+    },
+    {
+      "ecuName": "PSMP",
+      "securityAccessGen": 2
+    },
+    {
+      "ecuName": "RDDM",
+      "securityAccessGen": 2
+    },
+    {
+      "ecuName": "RML",
+      "securityAccessGen": 2
+    },
+    {
+      "ecuName": "RMR",
+      "securityAccessGen": 2
+    },
+    {
+      "ecuName": "RPDM",
+      "securityAccessGen": 2
+    },
+    {
+      "ecuName": "RSRL",
+      "securityAccessGen": 2
+    },
+    {
+      "ecuName": "RSRR",
+      "securityAccessGen": 2
+    },
+    {
+      "ecuName": "SGA",
+      "securityAccessGen": 2
+    },
+    {
+      "ecuName": "SRSM",
+      "securityAccessGen": 2
+    },
+    {
+      "ecuName": "SUM",
+      "securityAccessGen": 2
+    },
+    {
+      "ecuName": "SWM",
+      "securityAccessGen": 2
+    },
+    {
+      "ecuName": "TCA",
+      "securityAccessGen": 2
+    },
+    {
+      "ecuName": "TTLL",
+      "securityAccessGen": 2
+    },
+    {
+      "ecuName": "TTLR",
+      "securityAccessGen": 2
+    },
+    {
+      "ecuName": "WPC",
+      "securityAccessGen": 2
+    }
+  ]
+}
+}

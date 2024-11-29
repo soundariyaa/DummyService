@@ -1,0 +1,679 @@
+{
+  "oeId": "2a99f405-50d2-4495-a9ea-282e2ca94416",
+  "mixNumber": "0114580",
+  "originHash": "a0bc3af091748e98b437ab028a566a16eddc683de049ec406b7bdf7062c95a30",
+  "createdUtcMs": 1726740098556,
+  "isPriority": false,
+  "vehicleObjectContext": {
+    "vehicleObjectHash": "0f939a381cda387c6544bc800d67b7f7a5cc3fffcdb7ad08ecbcb2fce313bfb5",
+    "createdUtcMs": 1726740098556,
+    "modifiedUtcMs": 1726740098556,
+    "vehicle": {
+      "chassisNumber": "320135",
+      "factoryCode": "70",
+      "fyon": "687358630",
+      "structureWeek": 202409,
+      "modelYear": "2024",
+      "vehicleType": "224",
+      "vin": "7JRZSH7V0RG320135",
+      "typeCode": "2441",
+      "productType": "24"
+    },
+    "vdnList": {
+      "vdns": "014102051006110N12021401150416031701200121012210222022302240225022602270228022A022B022C022D022E022F022G022H022J022K022L022M022N022P022R022S022T022U022V022W022X022Y023012402250126012702280229012A012B032C012E012G022I012J012K012L032M012N032O012P012Q012T012U012X022Y022Z01350137023A013C053D013E023F013G013I013K013M013O013P013Q023S013U013X013Z024101441047044W0A4X104Y0A4Z0A500151015301540155015601580159015A015B015C015D015E015F015G015H015I015J015K015L015M015N015O015P015Q015R015S015T015U015V015W015X015Y015Z016501670168036A046D016F016H046J016K026M016X027001772D780379027A6D7B5A7C0G7D1E7E037F0D8060840385028605870188018A018B028D068F118G0B8H018I058J158K298N028O118R018V0E8X158Z349012910C9301940G950E9T009U01AA0AAC03AF02AG01BA05BD02BJ03C101C201C406C502C901CA01CB03CC02CD02CF4DCG01CH01CI0DCJ03CK15CL01CM01CN01CQ03CR80CS0CCV02CY01D101DA03DB01DD01DF02DI0BDJ02DM01DP01DR02DS01E001E302E402E602E901EA01EB01EC01ED01EE04EF0FEG02EH01EI01EJ02EK01EL02EM02EO02EQ01ER01ES01EV01EY01EZ02FB01FB02FE02FF01FG01FH02FI01FJ01FK5KFL01FR02FS02FT03FU05G101G202G301G402G602G902GA05GB02GG0CGH08GN1DGR03HA01HE02JA03JB0CJC01JD01JF01JG02JH01JI03JJ01JL02JN01JS02JT01JV02K101K202K402K502K601K702K802K901KB05KC01KD12KE02KF01KG03KH03KI04KJ03KK05KL03KM01KO01KP01KR03KT03KU04KW02KZ0CL102L201L302L404L501L603L701L802L902LA02LB03LD01LE01LF01LG01LI02LL02LM01LN01LO03LP01LQ01LR01LS01LT01LU03LV04LW02LY02MA02MB04MC02MD01MG01MI04MJ02MK07ML01MM02MN01MO0BMQ02MS14MT04MV3CMW03MX0DN201N302N401N502N601N704N802N901NC04NE01NG02NH01NI02NJ02NK01NL01NM02NN02NO02NP02NQ01NR02NS01NV02NY02NZ01P102P301PA02PB02PC01PD02PE02PG01PH03PI03PJ06PK01PL01PM01PN03PO01PP01PQ01PU02R189R203R303R412R518R603R702R948RA03RB01RC01RD02RE03RF01RG08RH02RI01RK02RL02RM02RN01RO02RP03RQ02RR05RS02RT02RU0ARV02RY04RZ02SB02SC01SL01SU02SV01SW01T009T101T214T301T501T602T801TA01TB06TC06TF01TG01TJ01TK01TL0ATM02TP01TQ01TR04TS02TZ01UB02UD02US01V102VA00VB00VC02VE01VI01VJ01VM01VP09XA01XA03XA05XA06XA09XA0BXA0DXA0FXA10XA14XA16XA18XA19XA1CXA1EXA21XA22XA25XB10XC01XD01XE01XE03XE05XE07XE0CY703Y806Y903YA06YB0AYC0EYD4AYE6CYF6AYG00YH06YI06YJ09YK09YL06YM06YN09YO09YP48YQ03YR01YV01YY01"
+    },
+    "vehicleCodes": [
+      {
+        "ecuName": "ECM",
+        "securityId": "PK0",
+        "value": "MDAwMTAwMDE4MzNCNjQxMkEyMDJBNkM4MUNBNTY3OTY1NjZFRjUyQkJCQTk1ODY5MjM4OEREOUNFNDczRUY3Nzk3QTAxQzJCQzU2QjhEM0Q5MDlDNUU5RTVDRDgwQThFNkQyOEMwREI1Q0QyNEMzMkE1NzJEMzY4MUJGOEVBQUIwQTM0REQwNzA2OTlFRURBQ0FDQ0VCN0E0RTEyOTU3NjlCQUVDREFGOUE2MzIxRkVCM0VCNUU3N0M5NkZCMzUwQkFGMUE1QjA5RTlBMEYwQkJBQzZGMkQyRkVBOEE1N0UzNDJGNDk1ODdENDFFMEQzM0NBRDkwM0FBQTM2MDkwOEUwNEE3QkFG"
+      },
+      {
+        "ecuName": "HUD",
+        "securityId": "000",
+        "value": "UVdQSU4oMTAtSFVEMDAwKQ=="
+      },
+      {
+        "ecuName": "CEM",
+        "securityId": "000",
+        "value": "ODEzNTE1Njk0Mg=="
+      },
+      {
+        "ecuName": "CEM",
+        "securityId": "009",
+        "value": "NTUyNTA5ODQxMw=="
+      },
+      {
+        "ecuName": "ECM",
+        "securityId": "000",
+        "value": "UVdQSU4oMTAtRUNNMDAwKQ=="
+      },
+      {
+        "ecuName": "ECM",
+        "securityId": "008",
+        "value": "UVdQSU4oNjQtRUNNMDA4KQ=="
+      },
+      {
+        "ecuName": "ECM",
+        "securityId": "009",
+        "value": "UVdQSU4oMTAtRUNNMDA5KQ=="
+      },
+      {
+        "ecuName": "IEM",
+        "securityId": "000",
+        "value": "UVdQSU4oMTAtSUVNMDAwKQ=="
+      },
+      {
+        "ecuName": "IEM",
+        "securityId": "008",
+        "value": "UVdQSU4oNjQtSUVNMDA4KQ=="
+      },
+      {
+        "ecuName": "IEM",
+        "securityId": "009",
+        "value": "UVdQSU4oMTAtSUVNMDA5KQ=="
+      },
+      {
+        "ecuName": "MVBM",
+        "securityId": "000",
+        "value": "UVdQSU4oMTAtTVZCMDAwKQ=="
+      },
+      {
+        "ecuName": "SCL",
+        "securityId": "000",
+        "value": "MjM4MzQzNDU0OA=="
+      },
+      {
+        "ecuName": "SCL",
+        "securityId": "008",
+        "value": "MTM0NjUzOTQ5Nzc3NjMyNTE4OTEyMjQ3NDkyNDg2NjM2ODg4OTI1NzMwMzYwMzM1MTI2Nzg4MDAxNDAxNTk4Ng=="
+      },
+      {
+        "ecuName": "SCL",
+        "securityId": "009",
+        "value": "ODM1NzE3OTM0OQ=="
+      },
+      {
+        "ecuName": "ISGM",
+        "securityId": "000",
+        "value": "UVdQSU4oMTAtSVNHMDAwKQ=="
+      },
+      {
+        "ecuName": "ISGM",
+        "securityId": "008",
+        "value": "UVdQSU4oNjQtSVNHMDA4KQ=="
+      },
+      {
+        "ecuName": "ISGM",
+        "securityId": "009",
+        "value": "UVdQSU4oMTAtSVNHMDA5KQ=="
+      },
+      {
+        "ecuName": "TCM",
+        "securityId": "000",
+        "value": "UVdQSU4oMTAtVENNMDAwKQ=="
+      },
+      {
+        "ecuName": "TCM",
+        "securityId": "008",
+        "value": "UVdQSU4oNjQtVENNMDA4KQ=="
+      },
+      {
+        "ecuName": "TCM",
+        "securityId": "009",
+        "value": "UVdQSU4oMTAtVENNMDA5KQ=="
+      },
+      {
+        "ecuName": "VC1",
+        "securityId": "000",
+        "value": "NTg4NDc5NDAzOA=="
+      },
+      {
+        "ecuName": "CSD",
+        "securityId": "000",
+        "value": "NzcwODQ3ODc1MA=="
+      },
+      {
+        "ecuName": "IHU",
+        "securityId": "000",
+        "value": "NDIyOTM3MDQ5Nw=="
+      },
+      {
+        "ecuName": "VGM",
+        "securityId": "000",
+        "value": "NTg5MDY4OTc2MA=="
+      },
+      {
+        "ecuName": "VGM",
+        "securityId": "017",
+        "value": "MzQxMzM2NDE5MQ=="
+      },
+      {
+        "ecuName": "TCAM",
+        "securityId": "000",
+        "value": "RkZGRkZGRkZGRg=="
+      },
+      {
+        "ecuName": "TCAM",
+        "securityId": "005",
+        "value": "NEE0RjRFNDE1Mw=="
+      },
+      {
+        "ecuName": "TCAM",
+        "securityId": "009",
+        "value": "RkZGRkZGRkZGRg=="
+      },
+      {
+        "ecuName": "TCAM",
+        "securityId": "019",
+        "value": "MjQzNDYxRjI3Qg=="
+      },
+      {
+        "ecuName": "CEM",
+        "securityId": "005",
+        "value": "NDM0NTREMzAzMw=="
+      },
+      {
+        "ecuName": "ASDM",
+        "securityId": "000",
+        "value": "QUFDQ0NDMzM1NQ=="
+      },
+      {
+        "ecuName": "ASDM",
+        "securityId": "005",
+        "value": "NDE1MzQ0MzAzNQ=="
+      },
+      {
+        "ecuName": "FLC2",
+        "securityId": "000",
+        "value": "RDZEMjgyMzVFMg=="
+      },
+      {
+        "ecuName": "FLC2",
+        "securityId": "005",
+        "value": "N0Q0OEJCNTA3RQ=="
+      },
+      {
+        "ecuName": "FLC2",
+        "securityId": "019",
+        "value": "NEU1QUUwNjI5NA=="
+      },
+      {
+        "ecuName": "TACM",
+        "securityId": "000",
+        "value": "NTQ0MTQzMzAzMQ=="
+      },
+      {
+        "ecuName": "TACM",
+        "securityId": "009",
+        "value": "RkZGRkZGRkZGRg=="
+      },
+      {
+        "ecuName": "IHU",
+        "securityId": "005",
+        "value": "MjIxRkE2NTQ5OQ=="
+      },
+      {
+        "ecuName": "VGM",
+        "securityId": "005",
+        "value": "NEE0RjRFNDE1Mw=="
+      },
+      {
+        "ecuName": "VGM",
+        "securityId": "015",
+        "value": "Mzc3QzYxNkQzMw=="
+      },
+      {
+        "ecuName": "AUD",
+        "securityId": "000",
+        "value": "NDE1NTQ0MzAzMQ=="
+      },
+      {
+        "ecuName": "BBS",
+        "securityId": "000",
+        "value": "QkJBQUREMzAxMg=="
+      },
+      {
+        "ecuName": "CCM",
+        "securityId": "000",
+        "value": "NDM0MzREMzAzMQ=="
+      },
+      {
+        "ecuName": "DDM",
+        "securityId": "000",
+        "value": "NDQ0MzU1MzAzMQ=="
+      },
+      {
+        "ecuName": "DIM",
+        "securityId": "000",
+        "value": "NDQ0OTREMzAzMQ=="
+      },
+      {
+        "ecuName": "DIM",
+        "securityId": "001",
+        "value": "NDQ0OTREMzAzMQ=="
+      },
+      {
+        "ecuName": "DIM",
+        "securityId": "005",
+        "value": "OEQ0NTU1MzZERQ=="
+      },
+      {
+        "ecuName": "EGSM",
+        "securityId": "000",
+        "value": "NDU0NzUzMzAzMQ=="
+      },
+      {
+        "ecuName": "FLR",
+        "securityId": "000",
+        "value": "MTY4NjU3MzJFMw=="
+      },
+      {
+        "ecuName": "FLR",
+        "securityId": "005",
+        "value": "OUVFNDBEMzQ4NA=="
+      },
+      {
+        "ecuName": "HCML",
+        "securityId": "000",
+        "value": "NDg0MzRDMzAzMQ=="
+      },
+      {
+        "ecuName": "HCMR",
+        "securityId": "000",
+        "value": "NDg0MzUyMzAzMQ=="
+      },
+      {
+        "ecuName": "IMS",
+        "securityId": "000",
+        "value": "NDk0RDUzMzAzMQ=="
+      },
+      {
+        "ecuName": "MVCM",
+        "securityId": "000",
+        "value": "QjQ3NkNBOEIyNQ=="
+      },
+      {
+        "ecuName": "OBC",
+        "securityId": "000",
+        "value": "NEY0MjQzMzAzMQ=="
+      },
+      {
+        "ecuName": "OHC",
+        "securityId": "000",
+        "value": "NEY0ODQzMzAzMQ=="
+      },
+      {
+        "ecuName": "PAC",
+        "securityId": "000",
+        "value": "RUQwRDFFN0ExNg=="
+      },
+      {
+        "ecuName": "PDM",
+        "securityId": "000",
+        "value": "NDQ0MzU1MzAzMQ=="
+      },
+      {
+        "ecuName": "PSCM",
+        "securityId": "000",
+        "value": "OENGNUE1MTlFRQ=="
+      },
+      {
+        "ecuName": "PSCM",
+        "securityId": "005",
+        "value": "OENGNUE1MTlFRQ=="
+      },
+      {
+        "ecuName": "RML",
+        "securityId": "000",
+        "value": "NTI0RDRDMzAzMQ=="
+      },
+      {
+        "ecuName": "RMR",
+        "securityId": "000",
+        "value": "NTI0RDUyMzAzMQ=="
+      },
+      {
+        "ecuName": "SAS",
+        "securityId": "000",
+        "value": "NTM0MTUzMzAzMQ=="
+      },
+      {
+        "ecuName": "SAS",
+        "securityId": "019",
+        "value": "RkZGRkZGRkZGRg=="
+      },
+      {
+        "ecuName": "SODL",
+        "securityId": "000",
+        "value": "NTI1MzQ0NTM1OA=="
+      },
+      {
+        "ecuName": "SODL",
+        "securityId": "005",
+        "value": "NTI1MzQ0NTM1OA=="
+      },
+      {
+        "ecuName": "SODR",
+        "securityId": "000",
+        "value": "NTI1MzQ0NTM1OA=="
+      },
+      {
+        "ecuName": "SODR",
+        "securityId": "005",
+        "value": "NTI1MzQ0NTM1OA=="
+      },
+      {
+        "ecuName": "SRS",
+        "securityId": "000",
+        "value": "NTM1MjQyMzAzMQ=="
+      },
+      {
+        "ecuName": "SRS",
+        "securityId": "005",
+        "value": "NTM1MjQyMzAzNQ=="
+      },
+      {
+        "ecuName": "TRM",
+        "securityId": "000",
+        "value": "NTQ1MjREMzAzMQ=="
+      },
+      {
+        "ecuName": "WAM",
+        "securityId": "000",
+        "value": "NTc0MTREMzAzMQ=="
+      }
+    ],
+    "currentEcus": [
+      {
+        "ecuName": "ASDM",
+        "ecuAddress": "5121",
+        "applDiagnosticPartNumberDefault": "32358866 AA",
+        "securityAccessGen": 1,
+        "assemblyNumber": "32410190"
+      },
+      {
+        "ecuName": "AUD",
+        "ecuAddress": "4626",
+        "applDiagnosticPartNumberDefault": "31678744 AA",
+        "securityAccessGen": 1,
+        "assemblyNumber": "32264589"
+      },
+      {
+        "ecuName": "BBS",
+        "ecuAddress": "6993",
+        "applDiagnosticPartNumberDefault": "31346934 AB",
+        "securityAccessGen": 1,
+        "assemblyNumber": "31419714"
+      },
+      {
+        "ecuName": "BCM2",
+        "ecuAddress": "5793",
+        "applDiagnosticPartNumberDefault": "31680335 AS",
+        "securityAccessGen": 2,
+        "assemblyNumber": "32384484"
+      },
+      {
+        "ecuName": "BECM",
+        "ecuAddress": "5685",
+        "applDiagnosticPartNumberDefault": "32299462 AL",
+        "securityAccessGen": 2
+      },
+      {
+        "ecuName": "CCM",
+        "ecuAddress": "6673",
+        "applDiagnosticPartNumberDefault": "32227154 AE",
+        "securityAccessGen": 1
+      },
+      {
+        "ecuName": "CEM",
+        "ecuAddress": "6657",
+        "applDiagnosticPartNumberDefault": "31665196 OA",
+        "securityAccessGen": 1,
+        "assemblyNumber": "32400409"
+      },
+      {
+        "ecuName": "CSD",
+        "ecuAddress": "4673",
+        "applDiagnosticPartNumberDefault": "32247202 AC",
+        "securityAccessGen": 1,
+        "assemblyNumber": "32316244"
+      },
+      {
+        "ecuName": "DDM",
+        "ecuAddress": "6674",
+        "applDiagnosticPartNumberDefault": "32279649 AA",
+        "securityAccessGen": 1,
+        "assemblyNumber": "31674755"
+      },
+      {
+        "ecuName": "DIM",
+        "ecuAddress": "6145",
+        "applDiagnosticPartNumberDefault": "32374893 AB",
+        "securityAccessGen": 1,
+        "assemblyNumber": "32412510"
+      },
+      {
+        "ecuName": "ECM",
+        "ecuAddress": "5680",
+        "applDiagnosticPartNumberDefault": "32388374 AB",
+        "securityAccessGen": 2,
+        "assemblyNumber": "32383818"
+      },
+      {
+        "ecuName": "EGSM",
+        "ecuAddress": "5683",
+        "applDiagnosticPartNumberDefault": "32362335 AA",
+        "securityAccessGen": 1,
+        "assemblyNumber": "32324872"
+      },
+      {
+        "ecuName": "ESM",
+        "ecuAddress": "5690",
+        "applDiagnosticPartNumberDefault": "32210919 AF",
+        "securityAccessGen": 2,
+        "assemblyNumber": "32344781"
+      },
+      {
+        "ecuName": "FLC2",
+        "ecuAddress": "5153",
+        "applDiagnosticPartNumberDefault": "32250667 AA",
+        "securityAccessGen": 1
+      },
+      {
+        "ecuName": "FLR",
+        "ecuAddress": "5201",
+        "applDiagnosticPartNumberDefault": "31680609 BA",
+        "securityAccessGen": 1
+      },
+      {
+        "ecuName": "HCML",
+        "ecuAddress": "7091",
+        "applDiagnosticPartNumberDefault": "32337654 AA",
+        "securityAccessGen": 1,
+        "assemblyNumber": "32404685"
+      },
+      {
+        "ecuName": "HCMR",
+        "ecuAddress": "7092",
+        "applDiagnosticPartNumberDefault": "32337669 AA",
+        "securityAccessGen": 1,
+        "assemblyNumber": "32404686"
+      },
+      {
+        "ecuName": "IEM",
+        "ecuAddress": "5687",
+        "applDiagnosticPartNumberDefault": "32391479 AA",
+        "securityAccessGen": 2,
+        "assemblyNumber": "32324794"
+      },
+      {
+        "ecuName": "IGM",
+        "ecuAddress": "5686",
+        "applDiagnosticPartNumberDefault": "32391614 AA",
+        "securityAccessGen": 2,
+        "assemblyNumber": "32324795"
+      },
+      {
+        "ecuName": "IHU",
+        "ecuAddress": "4609",
+        "applDiagnosticPartNumberDefault": "31483311 AX",
+        "securityAccessGen": 1,
+        "assemblyNumber": "32413742"
+      },
+      {
+        "ecuName": "IMS",
+        "ecuAddress": "6994",
+        "applDiagnosticPartNumberDefault": "31346935 AB",
+        "securityAccessGen": 1,
+        "assemblyNumber": "31652852"
+      },
+      {
+        "ecuName": "ISGM",
+        "ecuAddress": "5777",
+        "applDiagnosticPartNumberDefault": "32362500 AG",
+        "securityAccessGen": 2
+      },
+      {
+        "ecuName": "MVCM",
+        "ecuAddress": "5761",
+        "applDiagnosticPartNumberDefault": "32301326 AA",
+        "securityAccessGen": 1
+      },
+      {
+        "ecuName": "OBC",
+        "ecuAddress": "5684",
+        "applDiagnosticPartNumberDefault": "32324683 AB",
+        "securityAccessGen": 1,
+        "assemblyNumber": "32427005"
+      },
+      {
+        "ecuName": "OHC",
+        "ecuAddress": "6946",
+        "applDiagnosticPartNumberDefault": "32366285 AA",
+        "securityAccessGen": 1,
+        "assemblyNumber": "32392103"
+      },
+      {
+        "ecuName": "PAC",
+        "ecuAddress": "4641",
+        "applDiagnosticPartNumberDefault": "32209160 AA",
+        "securityAccessGen": 1,
+        "assemblyNumber": "32340119"
+      },
+      {
+        "ecuName": "PDM",
+        "ecuAddress": "6675",
+        "applDiagnosticPartNumberDefault": "32256678 AA",
+        "securityAccessGen": 1,
+        "assemblyNumber": "31674757"
+      },
+      {
+        "ecuName": "PSCM",
+        "ecuAddress": "5650",
+        "applDiagnosticPartNumberDefault": "32315408 AA",
+        "securityAccessGen": 1,
+        "assemblyNumber": "32346345"
+      },
+      {
+        "ecuName": "PSMD",
+        "ecuAddress": "6676",
+        "applDiagnosticPartNumberDefault": "32283760 AA",
+        "securityAccessGen": 2,
+        "assemblyNumber": "32395188"
+      },
+      {
+        "ecuName": "PSMP",
+        "ecuAddress": "6682",
+        "applDiagnosticPartNumberDefault": "32283761 AA",
+        "securityAccessGen": 2,
+        "assemblyNumber": "32395188"
+      },
+      {
+        "ecuName": "RML",
+        "ecuAddress": "5142",
+        "applDiagnosticPartNumberDefault": "31476172 AC",
+        "securityAccessGen": 1
+      },
+      {
+        "ecuName": "RMR",
+        "ecuAddress": "5143",
+        "applDiagnosticPartNumberDefault": "31476173 AC",
+        "securityAccessGen": 1
+      },
+      {
+        "ecuName": "SAS",
+        "ecuAddress": "5654",
+        "applDiagnosticPartNumberDefault": "32316066 AA",
+        "securityAccessGen": 1
+      },
+      {
+        "ecuName": "SODL",
+        "ecuAddress": "5170",
+        "applDiagnosticPartNumberDefault": "32276240 AA",
+        "securityAccessGen": 1,
+        "assemblyNumber": "32340780"
+      },
+      {
+        "ecuName": "SODR",
+        "ecuAddress": "5171",
+        "applDiagnosticPartNumberDefault": "32276241 AA",
+        "securityAccessGen": 1,
+        "assemblyNumber": "32340780"
+      },
+      {
+        "ecuName": "SRS",
+        "ecuAddress": "7169",
+        "applDiagnosticPartNumberDefault": "31451881 AV",
+        "securityAccessGen": 1,
+        "assemblyNumber": "32387682"
+      },
+      {
+        "ecuName": "TACM",
+        "ecuAddress": "5692",
+        "applDiagnosticPartNumberDefault": "31666006 AE",
+        "securityAccessGen": 1
+      },
+      {
+        "ecuName": "TCAM",
+        "ecuAddress": "4129",
+        "applDiagnosticPartNumberDefault": "31654970 AU",
+        "securityAccessGen": 1,
+        "assemblyNumber": "32364058"
+      },
+      {
+        "ecuName": "TCM",
+        "ecuAddress": "5682",
+        "applDiagnosticPartNumberDefault": "32362458 AA",
+        "securityAccessGen": 1
+      },
+      {
+        "ecuName": "TRM",
+        "ecuAddress": "6679",
+        "applDiagnosticPartNumberDefault": "31454490 AC",
+        "securityAccessGen": 1
+      },
+      {
+        "ecuName": "VCU1",
+        "ecuAddress": "5634",
+        "applDiagnosticPartNumberDefault": "31665748 MA",
+        "securityAccessGen": 2,
+        "assemblyNumber": "32230518"
+      },
+      {
+        "ecuName": "VGM",
+        "ecuAddress": "4098",
+        "applDiagnosticPartNumberDefault": "31676388 AP",
+        "securityAccessGen": 1,
+        "assemblyNumber": "32364244"
+      },
+      {
+        "ecuName": "WAM",
+        "ecuAddress": "5169",
+        "applDiagnosticPartNumberDefault": "32340125 AA",
+        "securityAccessGen": 1,
+        "assemblyNumber": "32400486"
+      }
+    ]
+  }
+}

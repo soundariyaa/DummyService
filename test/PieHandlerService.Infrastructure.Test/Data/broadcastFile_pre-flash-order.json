@@ -1,0 +1,166 @@
+{
+  "createdUtcMs": 1712673207949,
+  "forcedOverrideCompletionRule": true,
+  "isPriority": false,
+  "mixNumber": "5036299",
+  "oeId": "318b316d-405e-4df0-b272-93d155fdc120",
+  "originHash": "d95e6a81b4a4009f34182a870427d9d55faa282eecf908e6d4f0670743307ee1",
+  "preFlashContext": {
+    "createdUtcMs": 1712673207949,
+    "ecus": [
+      {
+        "authenticationTemplate": "32218512",
+        "ecuName": "HIA",
+        "software": [
+          {
+            "modifiedUtcMs": 1712673400958,
+            "partNumber": "32413428",
+            "state": "Unknown"
+          },
+          {
+            "modifiedUtcMs": 1712673400958,
+            "partNumber": "32413452",
+            "state": "Unknown"
+          }
+        ]
+      },
+      {
+        "authenticationTemplate": "32218512",
+        "ecuName": "HIB",
+        "software": [
+          {
+            "modifiedUtcMs": 1712673400958,
+            "partNumber": "32437017",
+            "state": "Unknown"
+          },
+          {
+            "modifiedUtcMs": 1712673400958,
+            "partNumber": "32437024",
+            "state": "Unknown"
+          }
+        ]
+      },
+      {
+        "authenticationTemplate": "32375204",
+        "ecuName": "HPA",
+        "software": [
+          {
+            "modifiedUtcMs": 1712673400958,
+            "partNumber": "32413209",
+            "state": "Unknown"
+          },
+          {
+            "modifiedUtcMs": 1712673400958,
+            "partNumber": "32413225",
+            "state": "Unknown"
+          },
+          {
+            "modifiedUtcMs": 1712673400958,
+            "partNumber": "32413229",
+            "state": "Unknown"
+          },
+          {
+            "modifiedUtcMs": 1712673400958,
+            "partNumber": "32413396",
+            "state": "Unknown"
+          },
+          {
+            "modifiedUtcMs": 1712673400958,
+            "partNumber": "32413398",
+            "state": "Unknown"
+          },
+          {
+            "modifiedUtcMs": 1712673400958,
+            "partNumber": "32413400",
+            "state": "Unknown"
+          },
+          {
+            "modifiedUtcMs": 1712673400958,
+            "partNumber": "32413402",
+            "state": "Unknown"
+          },
+          {
+            "modifiedUtcMs": 1712673400958,
+            "partNumber": "32413404",
+            "state": "Unknown"
+          },
+          {
+            "modifiedUtcMs": 1712673400958,
+            "partNumber": "32413406",
+            "state": "Unknown"
+          },
+          {
+            "modifiedUtcMs": 1712673400958,
+            "partNumber": "32413408",
+            "state": "Unknown"
+          },
+          {
+            "modifiedUtcMs": 1712673400958,
+            "partNumber": "32413967",
+            "state": "Unknown"
+          }
+        ]
+      },
+      {
+        "authenticationTemplate": "32218512",
+        "ecuName": "LPA",
+        "software": [
+          {
+            "modifiedUtcMs": 1712673400958,
+            "partNumber": "32413416",
+            "state": "Unknown"
+          },
+          {
+            "modifiedUtcMs": 1712673400958,
+            "partNumber": "32413418",
+            "state": "Unknown"
+          },
+          {
+            "modifiedUtcMs": 1712673400958,
+            "partNumber": "32413420",
+            "state": "Unknown"
+          },
+          {
+            "modifiedUtcMs": 1712673400958,
+            "partNumber": "32413422",
+            "state": "Unknown"
+          },
+          {
+            "modifiedUtcMs": 1712673400958,
+            "partNumber": "32413424",
+            "state": "Unknown"
+          },
+          {
+            "modifiedUtcMs": 1712673400958,
+            "partNumber": "32413426",
+            "state": "Unknown"
+          }
+        ]
+      },
+      {
+        "authenticationTemplate": "32218512",
+        "ecuName": "SGA",
+        "software": [
+          {
+            "modifiedUtcMs": 1712673400958,
+            "partNumber": "32413410",
+            "state": "Unknown"
+          },
+          {
+            "modifiedUtcMs": 1712673400958,
+            "partNumber": "32413412",
+            "state": "Unknown"
+          },
+          {
+            "modifiedUtcMs": 1712673400958,
+            "partNumber": "32413414",
+            "state": "Unknown"
+          }
+        ]
+      }
+    ],
+    "modifiedUtcMs": 1712673207949,
+    "preFlashHash": "a9be90728f43c2897c6c086c90a77dd90be8d23d3f279cbce636780169a7c66b",
+    "state": "Pending"
+  }
+}
